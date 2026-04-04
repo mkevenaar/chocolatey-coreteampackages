@@ -3,19 +3,19 @@ Verification is intended to assist the Chocolatey moderators and community
 in verifying that this package's contents are trustworthy.
 
 The embedded software have been downloaded from the listed download
-location on <https://github.com/clsid2/mpc-hc/releases/tag/2.6.4>
+location on <https://github.com/clsid2/mpc-hc/releases/tag/2.7.0>
 and can be verified by doing the following:
 
 1. Download the following:
-  32-Bit software: <https://github.com/clsid2/mpc-hc/releases/download/2.6.4/MPC-HC.2.6.4.x86.exe>
-  64-Bit software: <https://github.com/clsid2/mpc-hc/releases/download/2.6.4/MPC-HC.2.6.4.x64.exe>
+  32-Bit software: <https://github.com/clsid2/mpc-hc/releases/download/2.7.0/MPC-HC.2.7.0.x86.exe>
+  64-Bit software: <https://github.com/clsid2/mpc-hc/releases/download/2.7.0/MPC-HC.2.7.0.x64.exe>
 2. Get the checksum using one of the following methods:
   - Using powershell function 'Get-FileHash'
   - Use chocolatey utility 'checksum.exe'
 3. The checksums should match the following:
 
   checksum type: sha256
-  checksum32: 15A0BC3C6B5D64F17E9E04F82A61E8530B7A782249DEB8E32E68CA3B3A79BEAB
-  checksum64: C62D84827C62981C0B4231F72B9B0E8F5F6E46F28A29D98F5F590970A05A5481
+  checksum32: 0CAED8F957A41C2D8C9BBFEF9250C3287B09A292578B05781F37316589EE8672
+  checksum64: F308060E94405AA605E233F13934550D9D16303FA86224CD0AA59EBDD49A74FE
 
 The file 'LICENSE.txt' has been obtained from <https://www.gnu.org/licenses/gpl.txt>
