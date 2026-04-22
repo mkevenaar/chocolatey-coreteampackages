@@ -7,7 +7,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x64: https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-setup-x64.msi
+   x64: https://github.com/nomacs/nomacs/releases/download/3.22.1/nomacs-setup-x64.msi
 
    to download the installer.
 
@@ -15,7 +15,7 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-   checksum64: 909331028C43CF95F9ABC437F464DD8012B1B70B2AEC3FEBF8028B90B634498B
+   checksum64: 9BB345B69DEA183CA7EC9FBAD33BA2579C3B9160D8C89C3B9134ABA8006DF775
 
 Using Chocolatey AU:
 
